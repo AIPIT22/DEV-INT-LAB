@@ -1,3 +1,3 @@
 # DEV-INT-LAB
-dev lab this is java code used in processing application
+ this is java code used in processing application
  in the above zip file u have all the programs with data so kindy extract and use it 
